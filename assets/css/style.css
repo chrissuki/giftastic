@@ -1,0 +1,17 @@
+.right-input{
+	float:right;
+}
+.picBox{
+	float:left;
+	width:200px;
+	margin:20px 20px 20px 20px;
+}
+
+}
+.picture{
+	height:200px;
+}
+#rate{
+	text-align:center;
+	
+}
